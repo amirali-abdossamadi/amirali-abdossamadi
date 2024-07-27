@@ -8,7 +8,6 @@
 ##    Hello friends, I am <span style="color: red; font-weight: bold;">Amir</span>
 ## </div>
 
----
 
 <div align="center" style="font-size: 18px; font-family: Arial, sans-serif;">
     Front Full Stack Developer, Web Developer
