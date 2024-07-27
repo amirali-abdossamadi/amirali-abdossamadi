@@ -1,13 +1,10 @@
-# 💻 Amirali A.
+# Hello everyone , I am Amir
 
 [![GitHub followers](https://img.shields.io/github/followers/Amiraliaaa2?label=Follow&style=social)](https://github.com/Amiraliaaa2)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=social&logo=instagram)](https://instagram.com/amirali.aaa_)
 [![Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=social&logo=telegram)](https://t.me/amirali_aaa2)
 
-<div align="center" style="font-size: 50px; font-family: Arial, sans-serif;">
-    Hello friends, I am <span style="color: red; font-weight: bold;">Amir</span>
-</div>
-
+---
 
 <div align="center" style="font-size: 18px; font-family: Arial, sans-serif;">
     Front Full Stack Developer, Web Developer
