@@ -4,10 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=social&logo=instagram)](https://instagram.com/amirali.aaa_)
 [![Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=social&logo=telegram)](https://t.me/amirali_aaa2)
 
----
 ## Languages & Frameworks
-
----
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="28">
@@ -23,9 +20,6 @@
 </div>
 
 ## Tools & Softwares
-
----
-
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" height="28">
     <img src="https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white&style=for-the-badge" height="28">
@@ -41,8 +35,6 @@
 </div>
 
 ## 🌐 Connect with me
-
----
 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram)](https://instagram.com/amirali.aaa_)
 [![Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=telegram)](https://t.me/amirali_aaa2)
