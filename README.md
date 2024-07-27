@@ -5,11 +5,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=social&logo=telegram)](https://t.me/amirali_aaa2)
 
 ---
-
-<div align="center" style="font-size: 18px; font-family: Arial, sans-serif;">
-    Front Full Stack Developer, Web Developer
-</div>
-
 ## Languages & Frameworks
 
 ---
