@@ -4,6 +4,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-blue?style=social&logo=instagram)](https://instagram.com/amirali.aaa_)
 [![Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=social&logo=telegram)](https://t.me/amirali_aaa2)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="100" height="100" />
+</p>
+
 Welcome to my GitHub profile! I'm a passionate developer with skills in web and software development.
 
 ## 🚀 Skills
@@ -41,4 +45,27 @@ Feel free to reach out to me via [Instagram](https://instagram.com/amirali.aaa_)
 ---
 
 *Let's create something amazing together!*
+
+<style>
+  .wave {
+    animation: wave-animation 2s infinite;
+    transform-origin: 70% 70%;
+    display: inline-block;
+  }
+
+  @keyframes wave-animation {
+    0% { transform: rotate( 0.0deg) }
+    10% { transform: rotate(14.0deg) }
+    20% { transform: rotate(-8.0deg) }
+    30% { transform: rotate(14.0deg) }
+    40% { transform: rotate(-4.0deg) }
+    50% { transform: rotate(10.0deg) }
+    60% { transform: rotate( 0.0deg) }
+    100% { transform: rotate( 0.0deg) }
+  }
+</style>
+
+<p align="center" class="wave">
+  <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="100" height="100" />
+</p>
 
