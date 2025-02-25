@@ -44,3 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="40" height="40"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirali-abdossamadi&show_icons=true&hide_title=true&bg_color=000000&text_color=ffffff&icon_color=ffffff" />
+</p>
+
