@@ -30,7 +30,7 @@
 </p>
 
 ### Tools & Software:
-<p align="center">
+<p align="center" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" alt="PhpStorm" width="40" height="40"/>
@@ -46,6 +46,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirali-abdossamadi&show_icons=true&hide_title=true&bg_color=000000&text_color=ffffff&icon_color=ffffff" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirali-abdossamadi&theme=github_dark" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirali-abdossamadi&theme=dark" width="100%" />
 </p>
-
