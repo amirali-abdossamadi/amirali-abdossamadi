@@ -47,5 +47,4 @@
 
 <p align="center">
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirali-abdossamadi&theme=github_dark" width="100%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirali-abdossamadi&theme=dark" width="100%" />
 </p>
