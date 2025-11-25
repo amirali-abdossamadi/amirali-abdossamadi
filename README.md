@@ -45,6 +45,3 @@
   <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="40" height="40"/>
 </p>
 
-<p align="center">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amirali-abdossamadi&theme=github_dark" width="100%" />
-</p>
