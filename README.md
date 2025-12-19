@@ -1,30 +1,36 @@
 <div align="center">
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=AMIRALI&fontSize=160&fontAlignY=50&animation=twinkle" />
 
-ENTITY: AMIRALI
-**ARCHITECTURE // SYSTEMS // INTELLIGENCE**
+<p align="center">
+  <b>CORE ARCHITECT • COMPUTER SCIENCE SCHOLAR • SECURITY STRATEGIST</b><br>
+  <i>Synthesizing Hardware Logic with Distributed Software Systems.</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Logic-Non--Abstracted-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security-Red_Teaming-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/Paradigm-Full--Stack-black?style=flat-square" />
+</p>
 
 <br />
 
 ---
 
-### ◈ THE CORE MANIFESTO
-*Decoding the abstract, optimizing the physical.*
+### 🏛️ THE SCIENTIFIC MANIFESTO
+*The theoretical rigor behind every line of code.*
 
-> **"Synthesizing higher-level logic with lower-level abstraction."**
-> 
-> A **Computer Science** scholar focused on the mathematical foundations of **System Integrity**, **Cryptography**, and **Computational Efficiency**. Bridging the void between high-level engineering and the silicon layer.
+> **"In a world of excessive abstraction, I find my edge in the machine layer."** > My approach to **Computer Science** is rooted in the formal understanding of **Algorithmic Efficiency**, **Automata Theory**, and **Systems Integrity**. I build with the precision of a scholar and the pragmatism of a developer.
 
 ---
 
-### ⚡ LOWER-LEVEL ABSTRACTION & KERNEL SPACE
-*Deciphering the machine code through direct manipulation.*
+### 🦾 LOWER-LEVEL ABSTRACTION (THE METAL)
+*Direct manipulation of the silicon and kernel space.*
 
-* **0x01_ISA:** Expertise in `x86_64` & `ARM Assembly` instructional logic.
-* **0x02_ENGINE:** High-performance systems development in `C` & `C++`.
-* **0x03_VOID:** Master-level orchestration of **Arch Linux** and **POSIX Shell**.
-* **0x04_METAL:** Micro-architectural control and firmware design via **Arduino**.
+* **Instructional Logic:** Engineered expertise in `x86_64` & `ARM Assembly`.
+* **System Integrity:** High-performance systems development using `C` and `C++`.
+* **Hardware Interface:** Firmware development and micro-controller logic with `Arduino`.
+* **Kernel Ecosystem:** Mastery of **Arch Linux** and **POSIX Shell** environments.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,arduino,arch,bash,powershell,kali&theme=dark" />
@@ -32,24 +38,40 @@ ENTITY: AMIRALI
 
 ---
 
-### 🛡️ ADVERSARIAL ANALYSIS & CYBER-SEC
-*Securing the neural pathways of digital ecosystems.*
+### 🛡️ ADVERSARIAL ANALYSIS & SECURITY
+*Systemic hardening through offensive research.*
 
-* **Offensive Research:** Advanced penetration testing via **Kali Linux**.
-* **System Hardening:** Implementation of high-assurance **REST API Security** and **OAuth2/JWT** frameworks.
-* **Open Source Entropy:** Contributing to the resilience of decentralized software collectives.
+Focused on the **Cyber-Security** lifecycle: from **Network Protocol Analysis** to **Application Hardening**. Specialized in **REST API Security**, **Identity Orchestration (OAuth2/JWT)**, and contributing to the **Open Source** security collective.
 
 ---
 
-### 🚀 FULL-STACK SOFTWARE ENGINEERING
-*Engineering multi-layered, scalable, and high-integrity systems.*
+### 🚀 ENTERPRISE SOFTWARE ARCHITECTURE
+*Scalable, distributed, and high-assurance engineering.*
 
-| **SYSTEM** | **SPECIFICATION** |
-| :--- | :--- |
-| **Logic Layer** | `Node.js` • `NestJS` • `Express` • `TypeScript` |
-| **Data Engine** | `PostgreSQL` • `MongoDB` • `MySQL` • `Redis` |
-| **Core Logic** | `Python` • `Django` • `Flask` |
-| **UI Interface** | `React.js` • `ESNext` • `Modern CSS3` |
+<table border="0" width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <b>[ BACKEND CORE ]</b><br>
+      • NestJS / Node.js Architecture<br>
+      • TypeScript Logic Design<br>
+      • Python / Django / Flask
+    </td>
+    <td width="33%" valign="top">
+      <b>[ DATA & PERSISTENCE ]</b><br>
+      • PostgreSQL & MySQL (RDBMS)<br>
+      • MongoDB (NoSQL)<br>
+      • Redis (In-Memory Caching)
+    </td>
+    <td width="33%" valign="top">
+      <b>[ FRONTEND SYSTEMS ]</b><br>
+      • React.js Ecosystem<br>
+      • Advanced ES6+ Logic<br>
+      • Web Performance Optimization
+    </td>
+  </tr>
+</table>
+
+<br />
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,py,django,react,js,postgres,mongodb,redis&theme=dark" />
@@ -57,21 +79,25 @@ ENTITY: AMIRALI
 
 ---
 
-### 📡 EXTERNAL UPLINKS
+### 📡 TECHNICAL SPECIFICATIONS
+* **Paradigms:** Functional Programming, Microservices, Event-Driven Architecture.
+* **Environment:** Terminal-centric workflow, Git-Ops, Arch-based Development.
+* **Principles:** Memory Safety, Least Privilege, DRY/SOLID.
+
+<br />
+
 <p align="left">
-  <a href="https://easyafzar.com/Amir"><kbd> PORTFOLIO </kbd></a> • 
-  <a href="https://linkedin.com/in/your-profile"><kbd> LINKEDIN </kbd></a> • 
-  <a href="mailto:your-email@example.com"><kbd> EMAIL </kbd></a>
+  <a href="https://easyafzar.com/Amir"><img src="https://img.shields.io/badge/EXHIBIT-PORTFOLIO-000000?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/NETWORK-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/ENCRYPT-EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1&section=footer&width=500&opacity=20" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1&section=footer&width=1000&opacity=40" />
   <br />
-  <code>SYSTEM_STATUS: ACTIVE | ACCESS_LEVEL: ROOT</code>
-  <br />
-  <code>■ ■ ■ ■ ■ ■ ■ ■ □ □</code>
+  <code>STATUS: ARCHITECT_CONNECTED | SESSION: ENCRYPTED</code>
 </div>
 
 </div>
