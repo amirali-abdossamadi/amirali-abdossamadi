@@ -1,36 +1,32 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=AMIRALI&fontSize=100&fontAlignY=40&animation=fadeIn" />
+  
+  <p align="center">
+    <b>COMPUTER SCIENCE SCHOLAR | FULL-STACK ARCHITECT | SECURITY RESEARCHER</b>
+  </p>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=AMIRALI&fontSize=160&fontAlignY=50&animation=twinkle" />
-
-<p align="center">
-  <b>CORE ARCHITECT • COMPUTER SCIENCE SCHOLAR • SECURITY STRATEGIST</b><br>
-  <i>Synthesizing Hardware Logic with Distributed Software Systems.</i>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Logic-Non--Abstracted-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Security-Red_Teaming-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Paradigm-Full--Stack-black?style=flat-square" />
-</p>
-
-<br />
+  <p align="center">
+    <img src="https://img.shields.io/badge/Open_Source-Evangelist-000000?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/System-Integrity-000000?style=flat-square&logo=linux" />
+    <img src="https://img.shields.io/badge/Academic-Excellence-000000?style=flat-square&logo=google-scholar" />
+  </p>
+</div>
 
 ---
 
-### 🏛️ THE SCIENTIFIC MANIFESTO
-*The theoretical rigor behind every line of code.*
+### 🎓 ACADEMIC SYNOPSIS
+*Focusing on the convergence of theoretical computation and systemic efficiency.*
 
-> **"In a world of excessive abstraction, I find my edge in the machine layer."** > My approach to **Computer Science** is rooted in the formal understanding of **Algorithmic Efficiency**, **Automata Theory**, and **Systems Integrity**. I build with the precision of a scholar and the pragmatism of a developer.
+> Pursuing a rigorous foundation in **Computer Science**, specialized in **Algorithmic Complexity**, **Discrete Mathematics**, and **Automata Theory**. My objective is to bridge the gap between abstract mathematical models and high-performance software engineering.
 
 ---
 
-### 🦾 LOWER-LEVEL ABSTRACTION (THE METAL)
-*Direct manipulation of the silicon and kernel space.*
+### 🦾 LOWER-LEVEL ABSTRACTION & SYSTEMS
+*Deciphering the machine layer through hardware-software co-design.*
 
-* **Instructional Logic:** Engineered expertise in `x86_64` & `ARM Assembly`.
-* **System Integrity:** High-performance systems development using `C` and `C++`.
-* **Hardware Interface:** Firmware development and micro-controller logic with `Arduino`.
-* **Kernel Ecosystem:** Mastery of **Arch Linux** and **POSIX Shell** environments.
+* **Assembly & Low-Level:** Direct hardware manipulation using `x86/ARM Assembly`, memory management in `C`, and high-performance logic in `C++`.
+* **Embedded Systems:** Real-time processing and firmware development with `Arduino`.
+* **Kernel & Shell:** Mastering `Unix-like` environments, specifically **Arch Linux**, and automating complex system tasks via advanced `Bash` & `POSIX Shell`.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,arduino,arch,bash,powershell,kali&theme=dark" />
@@ -38,66 +34,47 @@
 
 ---
 
-### 🛡️ ADVERSARIAL ANALYSIS & SECURITY
-*Systemic hardening through offensive research.*
+### 🛡️ CYBER SECURITY & OFFENSIVE RESEARCH
+*Upholding systemic integrity through proactive vulnerability analysis.*
 
-Focused on the **Cyber-Security** lifecycle: from **Network Protocol Analysis** to **Application Hardening**. Specialized in **REST API Security**, **Identity Orchestration (OAuth2/JWT)**, and contributing to the **Open Source** security collective.
+Dedicated to **Defensive Hardening** and **Offensive Security**. Expertise in:
+* **Network Cryptography:** Protocol analysis and packet-level inspection.
+* **Application Security:** Secure **REST API** design and **OWASP** mitigation.
+* **Open Source Intelligence:** Contributing to secure and transparent software ecosystems.
 
 ---
 
-### 🚀 ENTERPRISE SOFTWARE ARCHITECTURE
-*Scalable, distributed, and high-assurance engineering.*
+### 🚀 SOFTWARE ENGINEERING & BACKEND ARCHITECTURE
+*Architecting scalable, distributed, and type-safe digital infrastructures.*
 
-<table border="0" width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <b>[ BACKEND CORE ]</b><br>
-      • NestJS / Node.js Architecture<br>
-      • TypeScript Logic Design<br>
-      • Python / Django / Flask
-    </td>
-    <td width="33%" valign="top">
-      <b>[ DATA & PERSISTENCE ]</b><br>
-      • PostgreSQL & MySQL (RDBMS)<br>
-      • MongoDB (NoSQL)<br>
-      • Redis (In-Memory Caching)
-    </td>
-    <td width="33%" valign="top">
-      <b>[ FRONTEND SYSTEMS ]</b><br>
-      • React.js Ecosystem<br>
-      • Advanced ES6+ Logic<br>
-      • Web Performance Optimization
-    </td>
-  </tr>
-</table>
-
-<br />
-
+#### **Core Tech-Stack**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,py,django,react,js,postgres,mongodb,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,py,django,flask&theme=dark" />
+</p>
+
+#### **Frontend Engineering**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" />
+</p>
+
+#### **Data Persistence & Caching**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" />
 </p>
 
 ---
 
-### 📡 TECHNICAL SPECIFICATIONS
-* **Paradigms:** Functional Programming, Microservices, Event-Driven Architecture.
-* **Environment:** Terminal-centric workflow, Git-Ops, Arch-based Development.
-* **Principles:** Memory Safety, Least Privilege, DRY/SOLID.
-
-<br />
-
-<p align="left">
-  <a href="https://easyafzar.com/Amir"><img src="https://img.shields.io/badge/EXHIBIT-PORTFOLIO-000000?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/NETWORK-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/ENCRYPT-EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+### 🛠️ TECHNICAL ARSENAL
+* **Development Paradigm:** Functional & Object-Oriented Programming, Microservices, CI/CD.
+* **Security Focus:** JWT, OAuth2, API Rate Limiting, Encryption at Rest.
+* **Philosophy:** *In an era of abstraction, understanding the metal is a superpower.*
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1&section=footer&width=1000&opacity=40" />
-  <br />
-  <code>STATUS: ARCHITECT_CONNECTED | SESSION: ENCRYPTED</code>
-</div>
-
+  <a href="https://easyafzar.com/Amir">Portfolio</a> • 
+  <a href="https://linkedin.com/in/your-profile">LinkedIn</a> • 
+  <a href="https://discord.com/users/your-id">Discord</a>
+  <br /><br />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer&width=1000&opacity=50" />
 </div>
