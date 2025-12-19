@@ -1,32 +1,30 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=AMIRALI&fontSize=100&fontAlignY=40&animation=fadeIn" />
-  
-  <p align="center">
-    <b>COMPUTER SCIENCE SCHOLAR | FULL-STACK ARCHITECT | SECURITY RESEARCHER</b>
-  </p>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Open_Source-Evangelist-000000?style=flat-square&logo=github" />
-    <img src="https://img.shields.io/badge/System-Integrity-000000?style=flat-square&logo=linux" />
-    <img src="https://img.shields.io/badge/Academic-Excellence-000000?style=flat-square&logo=google-scholar" />
-  </p>
-</div>
+<br />
+
+ENTITY: AMIRALI
+**ARCHITECTURE // SYSTEMS // INTELLIGENCE**
+
+<br />
 
 ---
 
-### 🎓 ACADEMIC SYNOPSIS
-*Focusing on the convergence of theoretical computation and systemic efficiency.*
+### ◈ THE CORE MANIFESTO
+*Decoding the abstract, optimizing the physical.*
 
-> Pursuing a rigorous foundation in **Computer Science**, specialized in **Algorithmic Complexity**, **Discrete Mathematics**, and **Automata Theory**. My objective is to bridge the gap between abstract mathematical models and high-performance software engineering.
+> **"Synthesizing higher-level logic with lower-level abstraction."**
+> 
+> A **Computer Science** scholar focused on the mathematical foundations of **System Integrity**, **Cryptography**, and **Computational Efficiency**. Bridging the void between high-level engineering and the silicon layer.
 
 ---
 
-### 🦾 LOWER-LEVEL ABSTRACTION & SYSTEMS
-*Deciphering the machine layer through hardware-software co-design.*
+### ⚡ LOWER-LEVEL ABSTRACTION & KERNEL SPACE
+*Deciphering the machine code through direct manipulation.*
 
-* **Assembly & Low-Level:** Direct hardware manipulation using `x86/ARM Assembly`, memory management in `C`, and high-performance logic in `C++`.
-* **Embedded Systems:** Real-time processing and firmware development with `Arduino`.
-* **Kernel & Shell:** Mastering `Unix-like` environments, specifically **Arch Linux**, and automating complex system tasks via advanced `Bash` & `POSIX Shell`.
+* **0x01_ISA:** Expertise in `x86_64` & `ARM Assembly` instructional logic.
+* **0x02_ENGINE:** High-performance systems development in `C` & `C++`.
+* **0x03_VOID:** Master-level orchestration of **Arch Linux** and **POSIX Shell**.
+* **0x04_METAL:** Micro-architectural control and firmware design via **Arduino**.
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,arduino,arch,bash,powershell,kali&theme=dark" />
@@ -34,47 +32,46 @@
 
 ---
 
-### 🛡️ CYBER SECURITY & OFFENSIVE RESEARCH
-*Upholding systemic integrity through proactive vulnerability analysis.*
+### 🛡️ ADVERSARIAL ANALYSIS & CYBER-SEC
+*Securing the neural pathways of digital ecosystems.*
 
-Dedicated to **Defensive Hardening** and **Offensive Security**. Expertise in:
-* **Network Cryptography:** Protocol analysis and packet-level inspection.
-* **Application Security:** Secure **REST API** design and **OWASP** mitigation.
-* **Open Source Intelligence:** Contributing to secure and transparent software ecosystems.
+* **Offensive Research:** Advanced penetration testing via **Kali Linux**.
+* **System Hardening:** Implementation of high-assurance **REST API Security** and **OAuth2/JWT** frameworks.
+* **Open Source Entropy:** Contributing to the resilience of decentralized software collectives.
 
 ---
 
-### 🚀 SOFTWARE ENGINEERING & BACKEND ARCHITECTURE
-*Architecting scalable, distributed, and type-safe digital infrastructures.*
+### 🚀 FULL-STACK SOFTWARE ENGINEERING
+*Engineering multi-layered, scalable, and high-integrity systems.*
 
-#### **Core Tech-Stack**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express,py,django,flask&theme=dark" />
-</p>
+| **SYSTEM** | **SPECIFICATION** |
+| :--- | :--- |
+| **Logic Layer** | `Node.js` • `NestJS` • `Express` • `TypeScript` |
+| **Data Engine** | `PostgreSQL` • `MongoDB` • `MySQL` • `Redis` |
+| **Core Logic** | `Python` • `Django` • `Flask` |
+| **UI Interface** | `React.js` • `ESNext` • `Modern CSS3` |
 
-#### **Frontend Engineering**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" />
-</p>
-
-#### **Data Persistence & Caching**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,py,django,react,js,postgres,mongodb,redis&theme=dark" />
 </p>
 
 ---
 
-### 🛠️ TECHNICAL ARSENAL
-* **Development Paradigm:** Functional & Object-Oriented Programming, Microservices, CI/CD.
-* **Security Focus:** JWT, OAuth2, API Rate Limiting, Encryption at Rest.
-* **Philosophy:** *In an era of abstraction, understanding the metal is a superpower.*
+### 📡 EXTERNAL UPLINKS
+<p align="left">
+  <a href="https://easyafzar.com/Amir"><kbd> PORTFOLIO </kbd></a> • 
+  <a href="https://linkedin.com/in/your-profile"><kbd> LINKEDIN </kbd></a> • 
+  <a href="mailto:your-email@example.com"><kbd> EMAIL </kbd></a>
+</p>
 
 <br />
 
 <div align="center">
-  <a href="https://easyafzar.com/Amir">Portfolio</a> • 
-  <a href="https://linkedin.com/in/your-profile">LinkedIn</a> • 
-  <a href="https://discord.com/users/your-id">Discord</a>
-  <br /><br />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer&width=1000&opacity=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=1&section=footer&width=500&opacity=20" />
+  <br />
+  <code>SYSTEM_STATUS: ACTIVE | ACCESS_LEVEL: ROOT</code>
+  <br />
+  <code>■ ■ ■ ■ ■ ■ ■ ■ □ □</code>
+</div>
+
 </div>
