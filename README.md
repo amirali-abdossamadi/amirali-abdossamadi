@@ -1,83 +1,80 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=AMIRALI&fontSize=80&fontAlignY=45&animation=twinkle" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=AMIRALI&fontSize=90&desc=COMPUTER%20SCIENCE%20%7C%20DEVELOPER%20%7C%20SECURITY&descSize=20&descAlignY=75&animation=fadeIn" />
 
-  ### **Software Developer • Computer Science Student • Security Researcher**
-  *Crafting secure digital ecosystems with precision and logic.*
-
-  ---
-
-  [![](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white)](https://easyafzar.com/Amir)
-  [![](https://img.shields.io/badge/DISCORD-121212?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
-  [![](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-
+  <p align="center">
+    <img src="https://img.shields.io/badge/ACADEMIC-CS_STUDENT-white?style=flat-square&logo=academia" />
+    <img src="https://img.shields.io/badge/ENGINEERING-FULL_STACK-white?style=flat-square&logo=visualstudiocode" />
+    <img src="https://img.shields.io/badge/SECURITY-OFFENSIVE-white?style=flat-square&logo=kalilinux" />
+  </p>
 </div>
 
 ---
 
-### ⚡ THE CORE STACK
-*High-performance development across the full lifecycle.*
+### 🎓 THE ACADEMIC FOUNDATION
+*Advanced theoretical concepts meets practical engineering.*
 
-<table>
+> **Focus:** Algorithms, Data Structures, and Computational Logic. 
+> Deep dive into Memory Management, Cryptography, and System Architecture.
+
+<table border="0">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 Backend & Architecture</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,py,django,flask&theme=dark" />
-      <ul>
-        <li>Scalable Microservices (NestJS/Node)</li>
-        <li>Rapid API Prototyping (Django/Flask)</li>
-        <li>Type-Safe Development (TypeScript)</li>
-      </ul>
+    <td width="50%">
+      <strong>🏛️ Computer Science Core</strong>
+      <br />• Logic & Complexity Analysis
+      <br />• Low-Level Systems Design
+      <br />• Network Protocols & Security
     </td>
-    <td width="50%" valign="top">
-      <h4>🎨 Frontend Engineering</h4>
-      <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" />
-      <ul>
-        <li>Modern UI/UX Development</li>
-        <li>Single Page Applications (React)</li>
-        <li>Interactive Frontend Logic</li>
-      </ul>
+    <td width="50%">
+      <strong>🛠️ Fundamental Languages</strong>
+      <br />
+      <img src="https://skillicons.dev/icons?i=c,cpp,asm,py&theme=dark" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛡️ SYSTEMS & OFFENSIVE SECURITY
-*Deep-dive into low-level engineering and network hardening.*
+### 🛡️ SYSTEMS & SECURITY RESEARCH
+*Hardening the digital perimeter through low-level mastery.*
+
+* **Operating Systems:** Mastery in **Arch Linux**, **Kali Linux**, and Custom Shell Environments.
+* **Automation:** Advanced **Bash** & **Shell** scripting for system optimization.
+* **Hardware:** Embedded systems development with **Arduino**.
+* **Security:** REST API Security, Cyber Security Research, and Network Penetration.
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,asm,arduino,kali,arch,bash,powershell&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kali,arch,bash,powershell,arduino&theme=dark" />
 </p>
-
-- **Low-Level:** Firmware development, Assembly logic, and C/C++ memory management.
-- **Offensive:** Penetration testing via Kali, Network protocol analysis, and Shell scripting.
-- **Linux:** Advanced system administration (Arch) and automation (Bash/Shell).
 
 ---
 
-### 💾 DATA & INFRASTRUCTURE
-*Engineered for reliability and data integrity.*
+### 🚀 SOFTWARE ARCHITECTURE
+*Building scalable, secure, and modern web ecosystems.*
+
+| **Backend & Logic** | **Frontend & UI** | **Data & Caching** |
+| :--- | :--- | :--- |
+| `Node.js` `NestJS` | `React.js` | `PostgreSQL` |
+| `Express` `TypeScript` | `JavaScript` | `MongoDB` |
+| `Django` `Flask` | `HTML5` `CSS3` | `MySQL` `Redis` |
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,django,flask,react,js,postgres,mongodb,mysql,redis&theme=dark" />
 </p>
 
-- **Relational:** PostgreSQL, MySQL.
-- **NoSQL & Cache:** MongoDB, High-speed Redis caching.
-- **API:** RESTful Architecture & Security Hardening.
-
 ---
 
-### 🏛️ ACADEMIC FOUNDATION
-- **Degree:** B.Sc. in Computer Science.
-- **Focus:** Algorithms, Data Structures, and Cryptographic Security.
-- **Philosophy:** "Code is poetry, but security is the rhythm."
+### 🔗 CONNECT & COLLABORATE
+<p align="left">
+  <a href="https://easyafzar.com/Amir"><img src="https://img.shields.io/badge/-PORTFOLIO-121212?style=for-the-badge&logo=appveyor&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LINKEDIN-121212?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://discord.com/users/your-id"><img src="https://img.shields.io/badge/-DISCORD-121212?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-EMAIL-121212?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
----
+<br />
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-  
+  <code>01000001 01001101 01001001 01010010 01000001 01001100 01001001</code>
   <br />
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer&width=1000" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2&section=footer&width=1000&opacity=50" />
 </div>
