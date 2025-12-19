@@ -1,47 +1,83 @@
-<h1>Hey there, I'm <a href="https://easyafzarcom/Amir"> Amirali </a></h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=AMIRALI&fontSize=80&fontAlignY=45&animation=twinkle" />
 
-<h2 align="center">My Skills</h2>
+  ### **Software Developer • Computer Science Student • Security Researcher**
+  *Crafting secure digital ecosystems with precision and logic.*
 
-### Languages:
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+  ---
+
+  [![](https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white)](https://easyafzar.com/Amir)
+  [![](https://img.shields.io/badge/DISCORD-121212?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)
+  [![](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+
+</div>
+
+---
+
+### ⚡ THE CORE STACK
+*High-performance development across the full lifecycle.*
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 Backend & Architecture</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,ts,py,django,flask&theme=dark" />
+      <ul>
+        <li>Scalable Microservices (NestJS/Node)</li>
+        <li>Rapid API Prototyping (Django/Flask)</li>
+        <li>Type-Safe Development (TypeScript)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎨 Frontend Engineering</h4>
+      <img src="https://skillicons.dev/icons?i=react,js,html,css&theme=dark" />
+      <ul>
+        <li>Modern UI/UX Development</li>
+        <li>Single Page Applications (React)</li>
+        <li>Interactive Frontend Logic</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛡️ SYSTEMS & OFFENSIVE SECURITY
+*Deep-dive into low-level engineering and network hardening.*
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,asm,arduino,kali,arch,bash,powershell&theme=dark" />
 </p>
 
-### Frameworks:
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+- **Low-Level:** Firmware development, Assembly logic, and C/C++ memory management.
+- **Offensive:** Penetration testing via Kali, Network protocol analysis, and Shell scripting.
+- **Linux:** Advanced system administration (Arch) and automation (Bash/Shell).
+
+---
+
+### 💾 DATA & INFRASTRUCTURE
+*Engineered for reliability and data integrity.*
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" />
 </p>
 
-### Databases:
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-</p>
+- **Relational:** PostgreSQL, MySQL.
+- **NoSQL & Cache:** MongoDB, High-speed Redis caching.
+- **API:** RESTful Architecture & Security Hardening.
 
-### Tools & Software:
-<p align="center" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" alt="PhpStorm" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="40" height="40"/>
-</p>
+---
 
+### 🏛️ ACADEMIC FOUNDATION
+- **Degree:** B.Sc. in Computer Science.
+- **Focus:** Algorithms, Data Structures, and Cryptographic Security.
+- **Philosophy:** "Code is poetry, but security is the rhythm."
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=2&section=footer&width=1000" />
+</div>
